@@ -29,4 +29,4 @@ Listar aqui fontes ou conteúdos relevantes ao projeto ou sua criação.
 
 ## 📜 Licença
 
-Este projeto é feito sobre a licença do MIT, para mais informações sobre a sua possível utilização e modificação, [clique aqui](LICENSE).
+Este projeto é feito sobre a licença do MIT, para mais informações sobre a sua possível utilização, modificação e compartilhamento, [clique aqui](LICENSE).
