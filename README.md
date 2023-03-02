@@ -23,6 +23,10 @@ Descrever aqui o processo de distribuição.
 
 Fique à vontade para abrir uma issue caso encontre algum bug ou tenha alguma sugestão, assim podemos discutir o melhor caminho para melhorá-la ou corrigi-lá.
 
+## 👋 Contribuição
+
+Você é sempre bem-vinde para contribuir com este projeto, basta criar sua pull request e aguardar a revisão.
+
 ## 📎 Links
 
 Listar aqui fontes ou conteúdos relevantes ao projeto ou sua criação.
